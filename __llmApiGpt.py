@@ -17,6 +17,15 @@ class GPT:
         self.headers = headers
 
         self.__setModel__()
+        self.__infoCreators__()
+
+
+    def __infoCreators__(self):
+        print("Module Created by Phu Tech")
+        print("facebook: https://www.facebook.com/profile.php?id=61562099241369")
+        print("youtube: https://www.youtube.com/@phucoding286")
+        print("github: https://github.com/phucoding286")
+        print()
     
 
     def __setModel__(self):
