@@ -5,7 +5,7 @@
 
 1. install the needed libaries
 ```
-pip install
+pip install requests
 ```
 2. so complete, you can starting using
 
