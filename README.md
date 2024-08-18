@@ -21,3 +21,7 @@ output = instance.inference("hello!")
 
 print(output)
 ```
+
+## ủng hộ tôi qua các trang xã hội
+- youtube: https://www.youtube.com/@phucoding286
+- facebook: https://www.facebook.com/profile.php?id=61562099241369
